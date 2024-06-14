@@ -30,5 +30,5 @@ function getId(id: number | string){
 
 const data: number[] = [1,2,3,6,5,47,8]
 const data1: string[] = ["1",'2','3','6']
-const data2: number[] | string[] = [1,2,3,6,5,47,8,"l"]  // gives error
+const data2: number[] | string[] = [1,2,3,6,5,47,8,"l"]  // provide either num or string otherwise :- gives error
 const data3: (number | string)[] = [1,2,3,6,5,47,8,"l"]  
