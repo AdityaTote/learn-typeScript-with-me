@@ -11,3 +11,4 @@ newUser[1] = ""
 newUser.push() 
 // but it does not follow order or sequence f data type passed . 
 //  So be carefull.
+    
